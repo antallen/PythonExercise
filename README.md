@@ -2,5 +2,5 @@
 Python Class
 
 ## Ch1 
-### ³nÅé¦w¸Ë
-+ Git ¦w¸Ë
+### è»Ÿé«”å®‰è£
++ Git å®‰è£
