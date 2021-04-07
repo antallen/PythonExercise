@@ -1,0 +1,16 @@
+name = ['Peter','James','Wang']
+#print(name[1])
+name.append('Marry')
+name.insert(2,'Rose')
+print(name)
+n2 = name.pop(3)
+print(n2)
+print(len(name))
+print(f'Hello, {"Marry" if n2 == "Marry" else n2}')
+name.remove("Rose")
+print(name)
+del name[0]
+print(name)
+print(name[0])
+name.extend(["A","B"])
+print(name)
